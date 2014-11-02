@@ -1,1 +1,3 @@
 Hello, Git!
+Hello, Gti! How are you!
+Hello, Git! How do you do!
